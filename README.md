@@ -2,6 +2,8 @@
 
 ### Aspiring Software Engineer | Backend Development | AI Engineering
 
+🌐 **[Explore My Software Engineering Portfolio](https://alphonsusortse.github.io/)** — Projects, technical skills, and my engineering journey.
+
 I'm an aspiring software engineer focused on building reliable applications, understanding how systems work, and developing strong foundations for AI-native software engineering.
 
 I learn by building practical projects, exploring the concepts behind the code, and improving through testing and collaboration.
@@ -40,6 +42,6 @@ I'm working toward becoming an **AI-native software engineer** with strong skill
 
 ## 🤝 Connect
 
-[LinkedIn](https://www.linkedin.com/in/alphonsusortse/)
+[Portfolio Website](https://alphonsusortse.github.io/) · [GitHub](https://github.com/AlphonsusOrtse) · [LinkedIn](https://www.linkedin.com/in/alphonsusortse/)
 
 Open to learning, collaborating, and contributing to meaningful software projects.
